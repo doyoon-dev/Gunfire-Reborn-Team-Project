@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: f3bcf1191117d64459f0cddd0af18d37
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      74: 2437176655770293706
+    second: 2021_Stand_InCombat
+  - first:
+      74: -1171136635347645856
+    second: 2021_Patrol
+  - first:
+      74: 8226494157094797674
+    second: 2021_Run_F
+  - first:
+      74: 1478470223359785900
+    second: 2021_Stand
+  - first:
+      74: -5155460673671667468
+    second: 2021_Walk_F
+  - first:
+      74: 2913267885497187029
+    second: 2021_Walk_R
+  - first:
+      74: -4450821888452695652
+    second: 2021_Walk_B
+  - first:
+      74: -157782866830967954
+    second: 2021_Walk_L
+  - first:
+      74: 6786523625409161432
+    second: 2021_JumpUp
+  - first:
+      74: -3044120498958692985
+    second: 2021_JumpEnd
+  - first:
+      74: 2999027406782593670
+    second: 2021_Hit_Head
+  - first:
+      74: -1063180239611539216
+    second: 2021_ChargeStart
+  - first:
+      74: -1385506620798608708
+    second: 2021_Attack01
+  - first:
+      74: 2039203992429992427
+    second: 2021_Fire02
+  - first:
+      74: 3602126780778584839
+    second: 2021_ChargeLoop
+  - first:
+      74: -2147884661213096767
+    second: 2021_ChargeEnd
+  - first:
+      74: 1360741807035215102
+    second: 2021_Hide_L
+  - first:
+      74: -1904808431563170110
+    second: 2021_Hide_R
+  - first:
+      74: 9091243372572723752
+    second: 2007_LightHit
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 2021
+    second: {fileID: 2100000, guid: 422397c1bfa4d2244a4d355da25e691a, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,4 @@
+﻿Number,Name,Note,Icon
+1001,신기한 만두,"신기한 만두. 속에 뭐가 들었는지는 몰라도, 먹으면 30%의 생명력을 회복한다",Sprite/ItemImage/Heal
+1002,탄약 보급,모든 탄약 풀 충전,Sprite/ItemImage/Bullet
+1003,수류탄 보급,수류탄 풀 충전,Sprite/ItemImage/Heal
